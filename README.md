@@ -1,2 +1,2 @@
 # rigbox-ios-t
-RIGBOX iOS app
+RIGBOX iOS app for test
