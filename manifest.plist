@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.rigsec.com:6880/app/ipa/1.0.4/RIGBOX.ipa</string>
+					<string>http://test.rigsec.com:6880/app/ipa/1.1.0/RIGBOX.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
